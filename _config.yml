@@ -1,0 +1,9 @@
+title: Gabby Bilka
+description: Webpage for UW HCDE 2018 student
+google_analytics: 
+show_downloads: true
+remote_theme: daviddarnes/alembic
+
+gems:
+  - jekyll-mentions
+  - jekyll-remote-theme
